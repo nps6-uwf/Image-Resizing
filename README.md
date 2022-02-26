@@ -7,5 +7,5 @@ Simple script to showcase the subtleties of various resizing algorithms
 ## Catmul-Rom Bicubic Interpolation
 <img src="https://github.com/nps6-uwf/Image-Resizing/blob/main/images/cubic_resizing.png?raw=true"></img>
 
-## Mitchell Cubic Interpolation
+## Mitchell-Netravali Cubic Interpolation
 <img src="https://github.com/nps6-uwf/Image-Resizing/blob/main/images/mitchell_resizing_tf.png?raw=true"></img>
